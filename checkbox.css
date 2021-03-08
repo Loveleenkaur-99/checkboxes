@@ -1,0 +1,15 @@
+.inbox{
+    margin: 2% 20%;
+    padding:3%;
+    color:white;
+    text-align: center;
+}
+.item{
+    margin:1% 0%;
+    padding:3%;
+}
+p{
+    display:inline;
+    padding-left: 1%;
+}
+
